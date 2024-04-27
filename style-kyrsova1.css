@@ -1,0 +1,12 @@
+body{
+	  background: #bcbff4;
+}
+.song{
+	   text-decoration: none;
+	   background: #6971f1;
+	   color: white;
+}
+.song:hover{
+	background: white;
+	color: #6971f1;
+}

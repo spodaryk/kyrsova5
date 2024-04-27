@@ -1,0 +1,23 @@
+body{
+	  background: #bcbff4;
+}
+.one{
+	 border: 1px solid grey;
+	 width: 400px;
+	 height: 805px;
+	 float: left;
+}
+.photo1{
+	     height: 250px;
+		 width: 400px;
+}
+.osnovna-infa{
+	background: #6971f1;
+}
+.os-infa{
+	background: #d4d7ff;
+}
+.super{
+	height: 250px;
+	width: 350px;
+}
